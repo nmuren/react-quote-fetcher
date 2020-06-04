@@ -1,6 +1,6 @@
 # Random Quote Machine
 
-React v16.13 & Bootstrap v4.5 application that calls random quotes from JSON data source.<br /><br />
+**React v16.13** & **Bootstrap v4.5** application that calls random quotes from JSON data source.<br /><br />
 Main purpose of this project is to meet the following user stories related [**freeCodeCamp**](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine) challenge.
 
 <hr>
