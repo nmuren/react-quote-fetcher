@@ -112,6 +112,8 @@ export default class App extends React.Component {
             id="tweet-quote"
             className="btn btn-primary m-1"
             title="Tweet this quote!"
+            target="_blank"
+            rel="noopener noreferrer"
             href={this.state.tweet}
           >
             Tweet <i className="fab fa-twitter" />
